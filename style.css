@@ -1,0 +1,41 @@
+
+
+ html{
+    background-color:#111111
+ }
+/*h1{
+     /*color:white;
+      
+      
+                   
+}*/
+ .header{
+    border-color: #ffffff;
+    background-color:#881166;
+    font-family:cursive;
+    color: white;
+    font-size:40pt;
+    font-weight: 40;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ .Sublinks{
+     background-color: #881166;
+     border-color: #111111;
+     font-family: cursive;
+     color: white;
+     font-weight: 100;
+     display: flex;
+     justify-content:space-evenly;
+ }
+
+ .grid{
+     background-color: #9955;
+     color:#ffffff;
+     display: flex;
+     -ms-flex-align: center;
+     padding:80px;
+ }
+                
+           
